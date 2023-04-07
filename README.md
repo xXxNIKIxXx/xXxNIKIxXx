@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg?short_path=cf5ae82
+<svg scr="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg?short_path=cf5ae82">
