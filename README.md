@@ -22,12 +22,19 @@
 
 ---
 
-### Current Projekts:
+## Projekts:
 
+### Current Projekts:
 - VALORANT (As an Minecraft plugin)
 - MINT-Modul-Datenverarbeitung (School Projekt together with Squirrelsoft-py)
 - MINT-Module-Oekosystem (School Projekt together with 5 other people)
-  
+
+### Finished Projekts:
+- MINT-Cam
+- MINT-Arduino
+- MINT-Web-Server
+- Informatik-AntProjekt
+
 ---
 
 ### :fire: My Stats :
