@@ -20,8 +20,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+### Current Projekts:
 
+- VALORANT (As an Minecraft plugin)
+- MINT-Modul-Datenverarbeitung (School Projekt together with Squirrelsoft-py)
+- MINT-Module-Oekosystem (School Projekt together with 5 other people)
   
 ---
 
