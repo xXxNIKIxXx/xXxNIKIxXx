@@ -43,3 +43,4 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xXxNIKIxXx&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXxNIKIxXx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Niki.png" alt="TryHackMe">
