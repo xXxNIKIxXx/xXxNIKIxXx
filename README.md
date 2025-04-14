@@ -25,6 +25,11 @@
 
 ## Projekts:
 
+### Freelancer Projekts:
+- Orbitals (Projekt planner)
+- Shuttle list service (Stiftung Louisenlund)
+- Water analysis/Plotting of data from the Schlei (Stiftung Louisenlund)
+
 ### Current Projekts:
 - VALORANT (As an Minecraft plugin)
 - MINT-Modul-Datenverarbeitung (School Projekt together with Squirrelsoft-py)
