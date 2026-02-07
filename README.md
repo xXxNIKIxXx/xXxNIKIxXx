@@ -50,4 +50,4 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXxNIKIxXx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![TryHackMe Stats](https://dev-fox.me/stats//tryhackme?userPublicId=508338&theme=radical)](https://github.com/xXxNIKIxXx/readme-metrics)
+  [![TryHackMe Stats](https://dev-fox.me/stats//tryhackme?userPublicId=508338&v=2&theme=radical)](https://github.com/xXxNIKIxXx/readme-metrics)
