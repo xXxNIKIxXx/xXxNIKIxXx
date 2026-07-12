@@ -31,9 +31,7 @@
 - Water analysis/Plotting of data from the Schlei (Stiftung Louisenlund)
 
 ### Current Projekts:
-- VALORANT (As an Minecraft plugin)
-- MINT-Modul-Datenverarbeitung (School Projekt together with Squirrelsoft-py)
-- MINT-Module-Oekosystem (School Projekt together with 5 other people)
+- StammTools (Managment Platform for Pfadfinderinnen und Pfadfinder Stamm Ansgar e.V.)
 
 ### Finished Projekts:
 - MINT-Cam
